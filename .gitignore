@@ -1,0 +1,5 @@
+# Ignore Twine temp files
+*.tw
+*.twee
+.idea
+OpenSorcery-AwakeningTheFlame.iml
