@@ -7,7 +7,7 @@ In the shadowed realms where technology mixes with sorcery, **Lily** awakens to 
 ## Explore the Enigma
 
 - **[Start the Interactive Story](path-to-your-twine-story)**
-- **[About the Game](episodes/Episode1.md)**
+- **[About the Game](episodes/episode_1/Episode1.md)**
 - **[Dive into the Lore](assets/documents/lore.md)**
 
 ## Hidden Secrets
